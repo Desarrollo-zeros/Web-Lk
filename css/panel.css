@@ -1,0 +1,155 @@
+.bg-1 {
+    background: rgba(255, 255, 255, 0.2);
+    color: #000000;
+}
+.bg-1 h3 {color: #a5a5a5;}
+.bg-1 p {font-style: italic;}
+
+
+footer {
+    background-color: #848484;
+    color: white;
+    padding: 20px;
+}
+
+.img {
+    background-image: url("../img/bg3.jpg");
+}
+
+.tamaño{
+font-family: Script MT Bold;
+    color: #fefff9;
+}
+
+.txt{
+   color: #985f0d;
+}
+.txt1{
+    color: #3d3b38;
+    font-family: fantasy;
+}
+
+.boton {
+    width: 80%;
+    padding: 1px 2px;
+    background-color: rgba(189, 182, 3, 0.1);
+    color: #000000;
+    margin-left: 3%;
+}
+
+.boton0 {
+    width: 80%;
+    padding: 1px 2px;
+    background-color: rgba(189, 182, 3, 0.1);
+    color: #000000;
+    margin-left: 4%;
+}
+
+.boton1 {
+    width: 65%;
+    padding: 1px 2px;
+    background-color: rgba(189, 182, 3, 0.1);
+    color: #000000;
+}
+
+.boton2 {
+    width: 75%;
+    padding: 1px 2px;
+    background-color: rgba(189, 182, 3, 0.1);
+    color: #000000;
+    margin-left: -1%;
+}
+
+.boton3 {
+    width: 80%;
+    padding: 1px 2px;
+    background-color: rgba(189, 182, 3, 0.1);
+    color: #000000;
+    margin-left: 1%;
+}
+
+.boton4 {
+    width: 70%;
+    padding: 1px 2px;
+    background-color: rgba(189, 182, 3, 0.1);
+    color: #000000;
+    margin-left: 2%;
+}
+.footer {
+    background-color: rgba(132, 132, 132, 0.27);
+    color: #943d00;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.aliz {
+background: center;
+}
+
+
+.online {
+    background-color: rgba(44, 43, 44, 0.84);
+    color: #fefff9;
+}
+
+.xx{
+    background-image: url("../img/bg4.jpg");
+}
+
+.imgban{
+    background-image: url("../img/thumb-1920-108819.jpg");
+}
+
+.i {
+    color: #000000;
+    font-size: 20px;
+    width: 20%;
+}
+
+.color{
+    color: #4f0e00;
+}
+
+.war{
+    background-image: url("../img/clases/Ui-charactercreate-classes_warrior.png");
+    width: 10%; /* Full width */
+    height : 10%; /* Full height */
+    background-repeat: repeat-y;
+}
+
+.ban{
+    color: #f9ff00;
+    font-size: 15px;
+}
+
+.perm{
+    color: #ff0017;
+    font-size: 15px;
+}
+
+.blizz{
+    width: 4%;
+    background-image: url("../img/Blizz.gif");
+}
+
+.blizz1{
+    width: 17%;
+    background-image: url("../img/Blizz.gif");
+}
+
+.bc{
+    color: #0017ff;
+    font-weight: bold;
+    font-style: normal;
+
+}
+.Estado1{
+    color: #04ff00;
+}
+
+.Estado2{
+    color: #ff1400;
+}
+
+

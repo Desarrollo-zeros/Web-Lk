@@ -1,0 +1,43 @@
+.newscontenido{
+    height: auto;
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    border: 1px solid rgba(30, 0, 28, 0.72);
+    border-radius: 10px;
+    padding: 10px;
+
+    font-size: 13px;
+    line-height: 1.6;
+    word-wrap: break-word;
+
+    font-family: sans-serif, Arial, Verdana, "Trebuchet MS";
+    color: rgba(255, 255, 255, 0.96);
+    background-color: rgb(0, 0, 0);
+    margin: 20px;
+}
+.newscontenido p{
+    margin: 15px 0 15px 0;
+}
+.newscontenido ol, .newscontenido ul, .newscontenido dl {
+    padding: 0 40px;
+}
+.newscontenido li{
+    list-style: disc;
+}
+.newscontenido h1, .newscontenido h2, .newscontenido h3, .newscontenido h4, .newscontenido h5, .newscontenido h6 {
+    font-weight: normal;
+    line-height: 1.2;
+}
+.newscontenido img{
+    border: 1px solid rgba(9, 0, 41, 0.65);
+}
+.newscontenido .titulo{
+    text-align: center;
+    font-weight: bold;
+    color: red;
+}
+
+.tamaño{
+    font-size: 20px;
+}
